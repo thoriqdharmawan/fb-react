@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/fb-react/static/css/main.5f361e03.chunk.css",
+    "main.js": "/fb-react/static/js/main.8c2a7ae9.chunk.js",
+    "main.js.map": "/fb-react/static/js/main.8c2a7ae9.chunk.js.map",
+    "runtime-main.js": "/fb-react/static/js/runtime-main.8365441a.js",
+    "runtime-main.js.map": "/fb-react/static/js/runtime-main.8365441a.js.map",
+    "static/js/2.55d7c7cb.chunk.js": "/fb-react/static/js/2.55d7c7cb.chunk.js",
+    "static/js/2.55d7c7cb.chunk.js.map": "/fb-react/static/js/2.55d7c7cb.chunk.js.map",
+    "index.html": "/fb-react/index.html",
+    "precache-manifest.d2b45a10f7adfa4652d7e2a41dc3d1d6.js": "/fb-react/precache-manifest.d2b45a10f7adfa4652d7e2a41dc3d1d6.js",
+    "service-worker.js": "/fb-react/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/fb-react/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.55d7c7cb.chunk.js.LICENSE.txt": "/fb-react/static/js/2.55d7c7cb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8365441a.js",
+    "static/js/2.55d7c7cb.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8c2a7ae9.chunk.js"
+  ]
+}
